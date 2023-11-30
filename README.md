@@ -39,7 +39,7 @@ In this project, I will be assuming the role of a BI consultant who has just bee
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-## Business objectives
+## Business objectives ✍
 
 Maven Toys major objective is to expand their business with new stores. Based on historical data from January 2017 to September 2018, they have posed the following business questions to help them make a decision:
 
@@ -61,7 +61,7 @@ A dashboard or report containing analysis and actionable insights.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## About the dataset
+## About the dataset 
 
 The dataset provided contains 4 tables in CSV format:
 
@@ -116,7 +116,6 @@ Data modeling is crucial in Power BI analysis because it structures and organize
 </p>
 
 
-
 A star schema model is a type of dimensional model in which data is organized into a central fact table (in this case, the sales table) surrounded by a number of dimensional tables (the other tables).
 
 
@@ -125,12 +124,13 @@ A star schema model is a type of dimensional model in which data is organized in
 To propagate my analysis I created several measures and new columns to aid the process.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-1. What is our Year-over-year (YOY) revenue and profit growth? How did we perform in the previous year?
+
+**1. What is our Year-over-year (YOY) revenue and profit growth? How did we perform in the previous year?**
 
 A YOY comparison is an effective way to evaluate the financial performance of Maven Toys by comparing the revenue and profit for the same period in the current year with the same period in the previous year. The time period compared here is January to September for both years.
 
 <p align="center">
-    <img width="1000" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/YOY_growth.PNG" alt="YOY growth">
+    <img width="700" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/YOY_growth.PNG" alt="YOY growth">
 </p>
 
 
@@ -138,7 +138,7 @@ In 2018, over that time period, Maven Toys made $6.96 million. The same period i
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Maven Toys has set a target of $8.5 million in revenue for each year - 2017 and 2018. How much progress did we or have we made towards this goal?
+**2. Maven Toys has set a target of $8.5 million in revenue for each year - 2017 and 2018. How much progress did we or have we made towards this goal?**
 
 <p align="center">
     <img width="700" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Revenue_progress_towards_target.PNG" alt="Revenue progress towards target">
@@ -152,7 +152,7 @@ This is a positive growth rate, and with the expected increase in sales by the r
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. Which product categories drive the biggest profits? Is this the same across store locations?
+**3. Which product categories drive the biggest profits? Is this the same across store locations?**
 
 The arts & crafts and the toys product categories drove the most sales.
 
@@ -166,7 +166,7 @@ YTD, across store locations, I observed that in downtown and residential locatio
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4. Can you find any seasonal trends or patterns in the sales data?
+**4. Can you find any seasonal trends or patterns in the sales data?**
 
 <p align="center">
     <img width="700" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Monthly_revenue_trend.PNG" alt="Monthly revenue trend">
@@ -190,7 +190,7 @@ Based on the patterns observed above, I would recommend the following to the Mav
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5. What is our market penetration? That is, how many stores and cities are we currently in?
+**5. What is our market penetration? That is, how many stores and cities are we currently in?**
 
 2017 till date Maven Toys has a total of 50 stores spread across 29 cities.
 
@@ -208,7 +208,7 @@ Based on the patterns observed above, I would recommend the following to the Mav
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-6. Is there a relationship between the number of stores in a city and the revenue generated there.
+**6. Is there a relationship between the number of stores in a city and the revenue generated there.**
 
 
 Yes there is. There is a strong positive correlation between the number of stores in a city and the revenue generated in that city. This means that as the number of stores in a city increases, the amount of revenue generated increases as well. It is important to note that there may be a hidden variable that can affect the amount of sales generated in the stores in each city.
@@ -233,7 +233,7 @@ While the strong positive correlation between the number of stores in a city and
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-7. How would you categorize our product pricing? What is the effect of this product pricing on the revenue generated year to date
+**7. How would you categorize our product pricing? What is the effect of this product pricing on the revenue generated year to date?**
 
 To do this, I categorized the product prices into three groups: low (≤$10), medium (> $10 to ≤ $20), and high (> $20).
 
@@ -247,7 +247,7 @@ YTD, Maven Toys has generated $14.44 million in revenue. 24.6% ($3.55 million) o
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-8. What are our best and worst performing stores in terms of profit and revenue. 
+**8. What are our best and worst performing stores in terms of profit and revenue.**
 
 The image below shows the top and bottom 5 stores in terms of revenue as well as the most and worst profitable stores. 
 
@@ -260,7 +260,7 @@ On further analysis (you can interact with the report [here](https://app.powerbi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-9. How would you advice Maven Toys to proceed with their expansion based on the insights you've garnered?
+**9. How would you advice Maven Toys to proceed with their expansion based on the insights you've garnered?**
 
 Based on the insights gathered from my analysis, Maven Toys can approach the topic of expansion based on store locations. Recall that we have 4 store locations - Downtown, Residential, Commercial, and Airport. Below is a breakdown of how each area type can impact sales along with recommendations for the expansion strategy.
 
