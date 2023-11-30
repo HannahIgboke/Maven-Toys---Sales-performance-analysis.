@@ -8,15 +8,15 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
 
 # Table of contents
 
-- About the company
-- Project brief
-- Business objectives
-- Deliverables
-- About the dataset
-- Skills demonstrated
-- The analysis process
-  - Data importation
-  - Data profiling and cleaning
+- [About the company](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#about-thecompany)
+- [Project brief](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#project-brief)
+- [Business objectives](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#business-objectives)
+- [Deliverables](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#deliverable)
+- [About the dataset]()
+- [Skills demonstrated]()
+- [The analysis process]()
+  - [Data importation]()
+  - [Data profiling and cleaning]()
 
 
 
@@ -282,6 +282,3 @@ For further analysis and exploration to address any questions that could arise I
 
 ![Thank you](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./assets/116895464/3c988713-4ad4-47f5-827c-4c0aecbffc27)
 
-
-
-Thank you
