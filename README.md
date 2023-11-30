@@ -12,13 +12,14 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
 - [Project brief](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#project-brief)
 - [Business objectives](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#business-objectives)
 - [Deliverables](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#deliverable)
-- [About the dataset]()
+- [About the dataset](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#about-thedataset)
 - [Skills demonstrated]()
-- [The analysis process]()
-  - [Data importation]()
-  - [Data profiling and cleaning]()
-
-
+- [The analysis process](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#the-analysisprocess)
+  - [Data importation](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-importation)
+  - [Data profiling and cleaning](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-profiling-andcleaning)
+  - [Data modeling](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-modeling)
+  - [Data insights and recommendation](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-analysis-andinsights)
+ 
 
 
 
