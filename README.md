@@ -266,7 +266,7 @@ Based on the insights gathered from my analysis, Maven Toys can approach the top
 
 
 <p align="center">
-**Downtown Areas: stores located in the central business districts of cities.**
+Downtown Areas: stores located in the central business districts of cities.
 </p>
 
 
