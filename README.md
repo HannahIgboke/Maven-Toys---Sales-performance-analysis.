@@ -241,7 +241,7 @@ The image below shows the top and bottom 5 stores in terms of revenue as well as
 </p>
 
 
-On further analysis (you can interact with the report here) I discovered that most of the stores that drove the most revenue and profit were located in cities that had 3 to 4 stores. The bottom and worst performing stores in revenue and profit were located in cities with one or two stores.
+On further analysis (you can interact with the report [here](https://app.powerbi.com/groups/me/reports/2e17172d-e27b-4066-81fa-dbe9094798c9/ReportSection9ff2d1c5d60c7b204339?experience=power-bi)) I discovered that most of the stores that drove the most revenue and profit were located in cities that had 3 to 4 stores. The bottom and worst performing stores in revenue and profit were located in cities with one or two stores.
 
 9. How would you advice Maven Toys to proceed with their expansion based on the insights you've garnered?
 
@@ -268,7 +268,7 @@ Sales Impact: these areas attract a mix of local and international customers. Tr
 Recommendation: Assess the performance of airport stores and consider expansion in cities with high air traffic. Maven Toys should tailor product offerings to cater to travelers and explore partnerships with airport authorities for promotional opportunities.
 
 ### Data visualization - Power BI report
-For further analysis and exploration to address any questions that could arise I have created a 3 page interactive report published here. 
+For further analysis and exploration to address any questions that could arise I have created a 3 page interactive report published [here](https://app.powerbi.com/groups/me/reports/2e17172d-e27b-4066-81fa-dbe9094798c9/ReportSection9ff2d1c5d60c7b204339?experience=power-bi). 
 
 
 <p align="center">
