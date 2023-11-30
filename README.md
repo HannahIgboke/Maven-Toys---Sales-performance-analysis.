@@ -13,14 +13,14 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
 - [Business objectives](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#business-objectives)
 - [Deliverables](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#deliverable)
 - [About the dataset](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#about-thedataset)
-- [Skills demonstrated]()
+- [Skills demonstrated](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#skills-demonstrated)
 - [The analysis process](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#the-analysisprocess)
   - [Data importation](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-importation)
   - [Data profiling and cleaning](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-profiling-andcleaning)
   - [Data modeling](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-modeling)
-  - [Data analysis - insights and recommendations]()
-  - [Data visualization - Power BI report]()
-  - [Next steps and other recommendations]()
+  - [Data analysis - insights and recommendations](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-analysis---insights-and-recommendations)
+  - [Data visualization - Power BI report](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-visualization---power-bi-report)
+  - [Next steps and other recommendations](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#next-steps-and-other-recommendations)
  
 
 
