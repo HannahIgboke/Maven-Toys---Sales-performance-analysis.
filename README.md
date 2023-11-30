@@ -18,7 +18,9 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
   - [Data importation](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-importation)
   - [Data profiling and cleaning](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-profiling-andcleaning)
   - [Data modeling](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-modeling)
-  - [Data insights and recommendation](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-analysis-andinsights)
+  - [Data analysis - insights and recommendations]()
+  - [Data visualization - Power BI report]()
+  - [Next steps and other recommendations]()
  
 
 
@@ -64,6 +66,15 @@ The dataset provided contains 4 tables in CSV format:
 - The inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct. 1, 2018).
 
 
+## Skills demonstrated
+
+Tool used: Microsoft Power BI. the following skills an concepts were aapplied through out this project:
+- Data cleaning and transformation in Power Query
+- Data modeling
+- 
+- Data visualization
+
+
 ## The analysis process
 
 This is an iterative roadmap undertaken to ensure the accuracy of results and a comprehensive analysis. For this project, I am using Microsoft Power BI.
@@ -99,7 +110,7 @@ Data modeling is crucial in Power BI analysis because it structures and organize
 A star schema model is a type of dimensional model in which data is organized into a central fact table (in this case, the sales table) surrounded by a number of dimensional tables (the other tables).
 
 
-### Data analysis and insights
+### Data analysis - insights and recommendations
 
 To propagate my analysis I created several measures and new columns to aid the process.
 
@@ -255,7 +266,7 @@ Recommendation: Assess the demographic profile of successful residential stores 
 Sales Impact: these areas attract a mix of local and international customers. Travelers, especially families with children, usually seek entertainment options or souvenirs.
 Recommendation: Assess the performance of airport stores and consider expansion in cities with high air traffic. Maven Toys should tailor product offerings to cater to travelers and explore partnerships with airport authorities for promotional opportunities.
 
-### Data visualizations and recommendations
+### Data visualization - Power BI report
 For further analysis and exploration to address any questions that could arise I have created a 3 page interactive report published here. 
 
 
