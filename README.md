@@ -262,9 +262,14 @@ On further analysis (you can interact with the report [here](https://app.powerbi
 
 **9. How would you advice Maven Toys to proceed with their expansion based on the insights you've garnered?**
 
-Based on the insights gathered from my analysis, Maven Toys can approach the topic of expansion based on store locations. Recall that we have 4 store locations - Downtown, Residential, Commercial, and Airport. Below is a breakdown of how each area type can impact sales along with recommendations for the expansion strategy.
+Based on the insights gathered from my analysis, Maven Toys can approach the topic of expansion based on store locations. Recall that we have 4 store locations - Downtown, Residential, Commercial, and Airport. Below is a breakdown of how each area type can impact sales along with recommendations for the expansion strategy:
 
-#### Downtown Areas: stores located in the central business districts of cities.
+
+<p align="center">
+**Downtown Areas: stores located in the central business districts of cities.**
+</p>
+
+
 
 Sales Impact: Since Downtown areas often have high foot traffic, this makes them ideal for impulse purchases and for attracting a diverse customer base. 
 Recommendation: Maven Toys should consider expanding further in downtown areas, especially in cities with strong economic activity and high population density. There should be a focus on storefront visibility and unique promotions to capture the attention of passersby.
