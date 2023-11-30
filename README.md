@@ -56,28 +56,47 @@ A dashboard or report containing analysis and actionable insights.
 ## About the dataset
 
 The dataset provided contains 4 tables in CSV format:
-The Products table contains the 35 products sold at Maven Toys (each record represents one product), with fields containing details about the product category, cost, and retail price.
-The Stores table contains the 50 Maven Toys store locations (each record represents one store), with fields containing details about the store location, type, and date it opened.
-The sales table contains the units sold in over 800,000 sales transactions from January 2017 to September 2018 (each record represents the purchase of a specific product at a specific store on a specific date).
-The inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct. 1, 2018).
 
-The analysis process
+- The Products table contains the 35 products sold at Maven Toys (each record represents one product), with fields containing details about the product category, cost, and retail price.
+- The Stores table contains the 50 Maven Toys store locations (each record represents one store), with fields containing details about the store location, type, and date it opened.
+- The sales table contains the units sold in over 800,000 sales transactions from January 2017 to September 2018 (each record represents the purchase of a specific product at a specific store on a specific date).
+- The inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct. 1, 2018).
+
+
+## The analysis process
+
 This is an iterative roadmap undertaken to ensure the accuracy of results and a comprehensive analysis. For this project, I am using Microsoft Power BI.
-Data importation
+
+### Data importation
+
 I imported all the CSV files provided into my Power BI workspace, after which I opened them individually in Power Query to carry out data cleaning.
-Data profiling and cleaning
+
+### Data profiling and cleaning
+
 Data profiling is crucial as it provides a comprehensive understanding of the quality, structure, and relationships within a dataset, ensuring that potential issues are identified early on. Cleaning the data is equally vital to enhance accuracy, eliminate inconsistencies, and maintain the integrity of the information, ensuring reliable insights and informed decision-making.
+
 In power query, I carried out the following tasks:
-Promoting headers to ensure appropriate column names.
-I converted the data types of the id columns in each table from whole numbers to text since they are identifiers and would not be used for calculations.
-I added three new columns, total product cost, total product price, and profit, to the sales dataset.
-I double-checked the column data types and converted the wrong data types to the appropriate data types.
-I trimmed the names of the stores in the stores table to reduce redundancy and create explicit and easy-to-read store names.
+
+- Promoting headers to ensure appropriate column names.
+- I converted the data types of the id columns in each table from whole numbers to text since they are identifiers and would not be used for calculations.
+- I added three new columns, total product cost, total product price, and profit, to the sales dataset.
+- I double-checked the column data types and converted the wrong data types to the appropriate data types.
+- I trimmed the names of the stores in the stores table to reduce redundancy and create explicit and easy-to-read store names.
 
 Furthermore, I created a Dates table that would serve as my primary date table for this analysis. I did this using the CALENDARAUTO() function, which creates a Date table by assessing the earliest and latest date in all of my tables. From this date table, I extracted the year, quarter, month, and day.
-Data modeling
+
+### Data modeling
+
 Data modeling is crucial in Power BI analysis because it structures and organizes raw data into a coherent framework, enabling relationships and hierarchies that form the foundation for insightful visualizations. For this analysis, Power BI automatically connected related tables, resulting in a star schema model.
-Star schema modelA star schema model is a type of dimensional model in which data is organized into a central fact table (in this case, the sales table) surrounded by a number of dimensional tables (the other tables).
+
+<p align="center">
+    <img width="500" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Data_model.PNG" alt="Star schema model">
+</p>
+
+
+
+
+A star schema model is a type of dimensional model in which data is organized into a central fact table (in this case, the sales table) surrounded by a number of dimensional tables (the other tables).
 Data analysis and insights
 To propagate my analysis I created several measures and new columns to aid the process.
 1. What is our Year-over-year (YOY) revenue and profit growth? How did we perform in the previous year?
