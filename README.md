@@ -37,4 +37,12 @@ Maven Toys major objective is to expand their business with new stores. Based on
 
 A dashboard or report containing analysis and actionable insights
 
+## About the dataset
+
+The dataset provided contains 4 tables in CSV format:
+
+- The Products table contains the 35 products sold at Maven Toys (each record represents one product), with fields containing details about the product category, cost, and retail price.
+- The Stores table contains the 50 Maven Toys store locations (each record represents one store), with fields containing details about the store location, type, and date it opened.
+- The sales table contains the units sold in over 800,000 sales transactions from January 2017 to September 2018 (each record represents the purchase of a specific product at a specific store on a specific date).
+- The inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct. 1, 2018).
 
