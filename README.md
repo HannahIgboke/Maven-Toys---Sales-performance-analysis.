@@ -71,8 +71,9 @@ The dataset provided contains 4 tables in CSV format:
 Tool used: Microsoft Power BI. the following skills an concepts were aapplied through out this project:
 - Data cleaning and transformation in Power Query
 - Data modeling
-- 
+- Data Analysis Expressions (DAX) codes
 - Data visualization
+- Project documentation
 
 
 ## The analysis process
