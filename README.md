@@ -25,7 +25,7 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## About the company
+## About the company 🏢
 
 Maven Toys is a fun and creative toy company that goes beyond regular play. They believe in making toys that not only entertain but also inspire imagination. As a top player in the toy industry, their goal is to create special moments for kids. Now, they're using data analysis to bring even more joy to families.
 
