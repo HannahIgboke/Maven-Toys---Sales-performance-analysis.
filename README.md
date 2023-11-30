@@ -294,8 +294,7 @@ For further analysis and exploration to address any questions that could arise I
     <img width="700" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Sales_Performance_by_stores.PNG" alt="Sales_Performance_by_stores">
 </p>
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Next steps and other recommendations
 
