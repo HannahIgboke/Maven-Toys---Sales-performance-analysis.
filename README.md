@@ -23,13 +23,13 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
   - [Next steps and other recommendations](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#next-steps-and-other-recommendations)
  
 
-
-
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About the company
 
 Maven Toys is a fun and creative toy company that goes beyond regular play. They believe in making toys that not only entertain but also inspire imagination. As a top player in the toy industry, their goal is to create special moments for kids. Now, they're using data analysis to bring even more joy to families.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Project brief
@@ -37,6 +37,7 @@ Maven Toys is a fun and creative toy company that goes beyond regular play. They
 
 In this project, I will be assuming the role of a BI consultant who has just been hired by this fictional company - Maven Toys. As they look to expand their business with new stores, they've brought me in to analyze interesting patterns and trends in their data and help them make informed decisions.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ## Business objectives
 
@@ -52,9 +53,13 @@ Maven Toys major objective is to expand their business with new stores. Based on
 8. What are our best and worst performing stores in terms of profit and revenue.
 9. How would you advice Maven Toys to proceed with their expansion based on the insights you've garnered?
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Deliverable
 
 A dashboard or report containing analysis and actionable insights.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About the dataset
 
@@ -65,6 +70,7 @@ The dataset provided contains 4 tables in CSV format:
 - The sales table contains the units sold in over 800,000 sales transactions from January 2017 to September 2018 (each record represents the purchase of a specific product at a specific store on a specific date).
 - The inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct. 1, 2018).
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Skills demonstrated
 
@@ -75,6 +81,8 @@ Tool used: Microsoft Power BI. the following skills an concepts were aapplied th
 - Data visualization
 - Project documentation
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## The analysis process
 
@@ -83,6 +91,7 @@ This is an iterative roadmap undertaken to ensure the accuracy of results and a 
 ### Data importation
 
 I imported all the CSV files provided into my Power BI workspace, after which I opened them individually in Power Query to carry out data cleaning.
+
 
 ### Data profiling and cleaning
 
@@ -293,5 +302,11 @@ For further analysis and exploration to address any questions that could arise I
 - Marketing and Promotion Efforts: Variances in marketing strategies and promotional efforts among different cities can affect sales. Further analyses on the effectiveness of marketing campaigns and how they contribute to revenue generation should be made
 - Conduct a pilot testing experiment to assess the effectiveness of customers placing orders on the Maven Toys website, considering factors such as the cost of product shipments, packaging, and related expenses.
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Thank you](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./assets/116895464/3c988713-4ad4-47f5-827c-4c0aecbffc27)
+
+
+That was a long one, but I'm glad you stuck to the end😊. Feel free to star this repository so you can always come back to it.
 
