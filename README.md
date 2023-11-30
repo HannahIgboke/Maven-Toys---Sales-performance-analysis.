@@ -111,18 +111,22 @@ A YOY comparison is an effective way to evaluate the financial performance of Ma
 </p>
 
 
-
-
-
 In 2018, over that time period, Maven Toys made $6.96 million. The same period in 2017 generated $5.32 million in revenue. This results in 30.9% year-over-year growth. In 2018, profit totaled $1.82 million; the same period last year came off at $1.57 million. This implied a 16% year-over-year growth in profit. Cumulatively, from January 2017 until September 2018, Maven Toys generated $14.44 million in revenue and made a total of $3.39 million in profit.
 
 
 
+2. Maven Toys has set a target of $8.5 million in revenue for each year - 2017 and 2018. How much progress did we or have we made towards this goal?
+
+<p align="center">
+    <img width="700" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Revenue_progress_towards_target.PNG" alt="Revenue progress towards target">
+</p>
 
 
 
-3. Maven Toys has set a target of $8.5 million in revenue for each year - 2017 and 2018. How much progress did we or have we made towards this goal?
-Revenue progress towards targetBy December 2017, Maven Toys was 88.03% (i.e., approximately $7.48 million) into the goal. In 2018, by September 30th, Maven Toys was 81.9% into the goal (approximately $6.96 million).
+
+
+
+By December 2017, Maven Toys was 88.03% (i.e., approximately $7.48 million) into the goal. In 2018, by September 30th, Maven Toys was 81.9% into the goal (approximately $6.96 million).
 When compared to the same period last year, I found out that by September 30, 2017, Maven toys were only 62.59% (approximately $5.32 million) into their target.
 This is a positive growth rate, and with the expected increase in sales by the remaining part of the year (October to December - the holiday and festive season), Maven Toys would hit its target.
 4. Which product categories drive the biggest profits? Is this the same across store locations?
