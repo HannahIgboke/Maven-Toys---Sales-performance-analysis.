@@ -94,6 +94,16 @@ In power query, I carried out the following tasks:
 
 Furthermore, I created a Dates table that would serve as my primary date table for this analysis. I did this using the CALENDARAUTO() function, which creates a Date table by assessing the earliest and latest date in all of my tables. From this date table, I extracted the year, quarter, month, and day.
 
+### Data modeling
+
+Data modeling is crucial in Power BI analysis because it structures and organizes raw data into a coherent framework, enabling relationships and hierarchies that form the foundation for insightful visualizations. For this analysis, Power BI automatically connected related tables, resulting in a star schema model.
+
+<p align="center">
+    <img width="1000" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Data_model.PNG" alt="customer_orders">
+</p>
+
+
+
 
 
 
