@@ -1,6 +1,6 @@
 # Maven Toys🧸 - Sales performance analysis
 
-_Welcome to Maven Toys - Where Play Sparks Ingenuity!_
+_Welcome to Maven Toys - Where Play Sparks Ingenuity⚡!_
 
 <p align="center">
     <img width="500" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Maven_Toys.png" alt="customer_orders">
@@ -32,7 +32,7 @@ Maven Toys is a fun and creative toy company that goes beyond regular play. They
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Project brief
+## Project brief📝
 
 
 In this project, I will be assuming the role of a BI consultant who has just been hired by this fictional company - Maven Toys. As they look to **expand their business with new stores**, they've brought me in to analyze interesting patterns and trends in their data and help them make informed decisions.
@@ -55,7 +55,7 @@ Maven Toys major objective is to expand their business with new stores. Based on
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Deliverable
+## Deliverable 🚚
 
 A dashboard or report containing analysis and actionable insights.
 
@@ -93,7 +93,7 @@ This is an iterative roadmap undertaken to ensure the accuracy of results and a 
 I imported all the CSV files provided into my Power BI workspace, after which I opened them individually in Power Query to carry out data cleaning.
 
 
-### Data profiling and cleaning
+### Data profiling and cleaning 🧹
 
 Data profiling is crucial as it provides a comprehensive understanding of the quality, structure, and relationships within a dataset, ensuring that potential issues are identified early on. Cleaning the data is equally vital to enhance accuracy, eliminate inconsistencies, and maintain the integrity of the information, ensuring reliable insights and informed decision-making.
 
@@ -124,6 +124,7 @@ A star schema model is a type of dimensional model in which data is organized in
 
 To propagate my analysis I created several measures and new columns to aid the process.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 1. What is our Year-over-year (YOY) revenue and profit growth? How did we perform in the previous year?
 
 A YOY comparison is an effective way to evaluate the financial performance of Maven Toys by comparing the revenue and profit for the same period in the current year with the same period in the previous year. The time period compared here is January to September for both years.
@@ -135,7 +136,7 @@ A YOY comparison is an effective way to evaluate the financial performance of Ma
 
 In 2018, over that time period, Maven Toys made $6.96 million. The same period in 2017 generated $5.32 million in revenue. This results in 30.9% year-over-year growth. In 2018, profit totaled $1.82 million; the same period last year came off at $1.57 million. This implied a 16% year-over-year growth in profit. Cumulatively, from January 2017 until September 2018, Maven Toys generated $14.44 million in revenue and made a total of $3.39 million in profit.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Maven Toys has set a target of $8.5 million in revenue for each year - 2017 and 2018. How much progress did we or have we made towards this goal?
 
@@ -149,6 +150,8 @@ When compared to the same period last year, I found out that by September 30, 20
 
 This is a positive growth rate, and with the expected increase in sales by the remaining part of the year (October to December - the holiday and festive season), Maven Toys would hit its target.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3. Which product categories drive the biggest profits? Is this the same across store locations?
 
 The arts & crafts and the toys product categories drove the most sales.
@@ -161,6 +164,7 @@ The arts & crafts and the toys product categories drove the most sales.
 
 YTD, across store locations, I observed that in downtown and residential location stores, the arts & crafts product categories drove the most profits, while in commercial and airport location stores, the toys category pushed the arts & crafts category off the table slightly and drove more profit.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4. Can you find any seasonal trends or patterns in the sales data?
 
@@ -184,6 +188,7 @@ Based on the patterns observed above, I would recommend the following to the Mav
 - Collection of data on consumers in order to analyze customer spending habits and consumer behavior, customer lifetime value (CLV), churn and retention rate
 - A feedback form should be sent regularly on a month-by-month basis to keep track of customers preferences as the months pass by.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5. What is our market penetration? That is, how many stores and cities are we currently in?
 
@@ -201,6 +206,7 @@ Based on the patterns observed above, I would recommend the following to the Mav
     <img width="700" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Stores_per_location.PNG" alt="Stores per location">
 </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6. Is there a relationship between the number of stores in a city and the revenue generated there.
 
@@ -225,7 +231,7 @@ While the strong positive correlation between the number of stores in a city and
 - Location of Stores Within Cities: The specific location of each store within a city (e.g., proximity to popular attractions, accessibility, foot traffic) can significantly influence its individual performance.
 - Operational Efficiency:Assess the operational efficiency of each store. Factors such as inventory management, staff training, and store layout can influence the customer experience and, consequently, sales.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 7. How would you categorize our product pricing? What is the effect of this product pricing on the revenue generated year to date
 
@@ -239,7 +245,7 @@ To do this, I categorized the product prices into three groups: low (≤$10), me
 
 YTD, Maven Toys has generated $14.44 million in revenue. 24.6% ($3.55 million) of this was generated by high-priced products, 18.5% ($2.67 million) by low-priced products, and 56.9% ($8.22 million) by medium-priced products.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8. What are our best and worst performing stores in terms of profit and revenue. 
 
@@ -251,6 +257,8 @@ The image below shows the top and bottom 5 stores in terms of revenue as well as
 
 
 On further analysis (you can interact with the report [here](https://app.powerbi.com/groups/me/reports/2e17172d-e27b-4066-81fa-dbe9094798c9/ReportSection9ff2d1c5d60c7b204339?experience=power-bi)) I discovered that most of the stores that drove the most revenue and profit were located in cities that had 3 to 4 stores. The bottom and worst performing stores in revenue and profit were located in cities with one or two stores.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 9. How would you advice Maven Toys to proceed with their expansion based on the insights you've garnered?
 
@@ -275,6 +283,8 @@ Recommendation: Assess the demographic profile of successful residential stores 
 
 Sales Impact: these areas attract a mix of local and international customers. Travelers, especially families with children, usually seek entertainment options or souvenirs.
 Recommendation: Assess the performance of airport stores and consider expansion in cities with high air traffic. Maven Toys should tailor product offerings to cater to travelers and explore partnerships with airport authorities for promotional opportunities.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Data visualization - Power BI report
 For further analysis and exploration to address any questions that could arise I have created a 3 page interactive report published [here](https://app.powerbi.com/groups/me/reports/2e17172d-e27b-4066-81fa-dbe9094798c9/ReportSection9ff2d1c5d60c7b204339?experience=power-bi). 
