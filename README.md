@@ -11,7 +11,7 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
 - [About the company](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#about-thecompany)
 - [Project brief](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#project-brief)
 - [Business objectives](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#business-objectives)
-- [Deliverables](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#deliverable)
+- [Deliverable](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#deliverable)
 - [About the dataset](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#about-thedataset)
 - [Skills demonstrated](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#skills-demonstrated)
 - [The analysis process](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#the-analysisprocess)
