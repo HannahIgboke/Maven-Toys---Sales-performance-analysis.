@@ -20,7 +20,7 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
   - [Data modeling](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-modeling)
   - [Data analysis - insights and recommendations](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-analysis---insights-and-recommendations)
   - [Data visualization - Power BI report](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#data-visualization---power-bi-report)
-  - [Next steps and other recommendations](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#next-steps-and-other-recommendations)
+- [Next steps and other recommendations](https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./tree/main#next-steps-and-other-recommendations)
  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -35,7 +35,7 @@ Maven Toys is a fun and creative toy company that goes beyond regular play. They
 ## Project brief
 
 
-In this project, I will be assuming the role of a BI consultant who has just been hired by this fictional company - Maven Toys. As they look to expand their business with new stores, they've brought me in to analyze interesting patterns and trends in their data and help them make informed decisions.
+In this project, I will be assuming the role of a BI consultant who has just been hired by this fictional company - Maven Toys. As they look to **expand their business with new stores**, they've brought me in to analyze interesting patterns and trends in their data and help them make informed decisions.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
