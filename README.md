@@ -18,3 +18,23 @@ Their commitment to excellence extends from the imaginative products that define
 At Maven Toys, we understand that every child’s smile is a testament to the joy encapsulated within our products. Now, with a strategic vision to extend this joy to even more families, we have therefore initiated a comprehensive data-driven analysis.
 
 In this project, I will be assuming the role of a BI consultant who has just been hired by Maven Toys. As they look to expand their business with new stores, they’ve brought me in to analyze interesting patterns and trends in their data and help them make informed decisions.
+
+## Business objectives
+
+Maven Toys major objective is to expand their business with new stores. Based on historical data from January 2017 to September 2018, they have posed the following business questions to help them make a decision:
+
+1. Maven Toys has set a target of $8.5 million in revenue for each year—2017 and 2018. How much progress have we made towards this goal?
+2. What is our year-over-year (YOY) revenue and profit growth? How did we perform in the previous year?
+3. Which product categories drive the biggest profits? Is this the same across store locations?
+4. Can you find any seasonal trends or patterns in the sales data?
+5. What is our market penetration? That is, how many stores and cities are we currently in?
+6. Is there a relationship between the number of stores in a city and the revenue generated there?
+7. How would you categorize our product pricing? What is the effect of this product pricing on the revenue generated each year?
+8. What is your recommended expansion plan? How would you advise Maven Toys to proceed with their expansion based on the insights you’ve garnered?
+
+
+## Deliverables
+
+A dashboard or report containing analysis and actionable insights
+
+
