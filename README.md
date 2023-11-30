@@ -39,7 +39,7 @@ In this project, I will be assuming the role of a BI consultant who has just bee
 
 Maven Toys major objective is to expand their business with new stores. Based on historical data from January 2017 to September 2018, they have posed the following business questions to help them make a decision:
 
-1. Maven Toys has set a target of $8.5 million in revenue for each year—2017 and 2018. How much progress have we made towards this goal?
+1. Maven Toys has set a target of $8.5 million in revenue for each year—2017 and 2018. How much progress did we or have we made towards this goal?
 2. What is our year-over-year (YOY) revenue and profit growth? How did we perform in the previous year?
 3. Which product categories drive the biggest profits? Is this the same across store locations?
 4. Can you find any seasonal trends or patterns in the sales data?
