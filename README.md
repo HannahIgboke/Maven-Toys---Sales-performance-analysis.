@@ -6,9 +6,25 @@ _Welcome to Maven Toys - Where Play Sparks Ingenuity!_
     <img width="500" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Maven_Toys.png" alt="customer_orders">
 </p>
 
+# Table of contents
+
+- About the company
+- Project brief
+- Business objectives
+- Deliverables
+- About the dataset
+- Skills demonstrated
+- The analysis process
+  - Data importation
+  - Data profiling and cleaning
+
+
+
+
+
 ## About the company
 
-Maven Toys is a dynamic and forward-thinking toy company that transcends the boundaries of traditional play. Maven Toys believes in the power of play to not only entertain but to ignite ingenuity and spark creativity. As a leading force in the toy industry, they are on a mission to create joyous moments that go beyond the ordinary.
+Maven Toys (a fictional company) is a dynamic and forward-thinking toy company that transcends the boundaries of traditional play. Maven Toys believes in the power of play to not only entertain but to ignite ingenuity and spark creativity. As a leading force in the toy industry, they are on a mission to create joyous moments that go beyond the ordinary.
 
 Their commitment to excellence extends from the imaginative products that define their brand to the meticulous analysis of data driving their strategic expansion. Maven Toys is not just a company; it’s a celebration of the boundless potential of play, where each moment becomes a canvas for imagination, and each toy is a key to unlocking new realms of creativity.
 
