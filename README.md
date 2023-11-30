@@ -102,6 +102,8 @@ Data modeling is crucial in Power BI analysis because it structures and organize
     <img width="1000" src="https://github.com/HannahIgboke/Maven-Toys---Sales-performance-analysis./blob/main/Images/Data_model.PNG" alt="customer_orders">
 </p>
 
+A star schema model is a type of dimensional model in which data is organized into a central fact table (in this case, the sales table) surrounded by a number of dimensional tables (the other tables).
+
 
 
 
