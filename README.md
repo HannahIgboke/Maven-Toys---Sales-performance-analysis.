@@ -235,7 +235,7 @@ While the strong positive correlation between the number of stores in a city and
 
 **7. How would you categorize our product pricing? What is the effect of this product pricing on the revenue generated year to date?**
 
-To do this, I categorized the product prices into three groups: low (≤$10), medium (> $10 to ≤ $20), and high (> $20).
+To do this, I categorized the product prices into three groups: low (≤$10), medium (> $10 to ≤ $20), and high (> $20). The DAX code for this is seen below.
 
 
 <p align="center">
@@ -265,28 +265,28 @@ On further analysis (you can interact with the report [here](https://app.powerbi
 Based on the insights gathered from my analysis, Maven Toys can approach the topic of expansion based on store locations. Recall that we have 4 store locations - Downtown, Residential, Commercial, and Airport. Below is a breakdown of how each area type can impact sales along with recommendations for the expansion strategy:
 
 
-<p align="center">
-Downtown Areas: stores located in the central business districts of cities.
-</p>
-
-
+#### DOWNTOWN AREAS: stores located in the central business districts of cities.
 
 Sales Impact: Since Downtown areas often have high foot traffic, this makes them ideal for impulse purchases and for attracting a diverse customer base. 
+
 Recommendation: Maven Toys should consider expanding further in downtown areas, especially in cities with strong economic activity and high population density. There should be a focus on storefront visibility and unique promotions to capture the attention of passersby.
 
-#### Commercial Areas: stores near shopping centers and business parks.
+#### COMMERCIAL AREAS: stores near shopping centers and business parks.
 
 Sales Impact: Commercial areas attract a mix of professionals and families. The proximity to business hubs could result in increased weekday sales, while weekends might see family-oriented shoppers.
+
 Recommendation: Maven Toys needs to further evaluate the performance of existing stores in commercial areas and, if successful, consider expanding strategically in similar locations and exploring partnerships with nearby businesses for cross-promotions.
 
-#### Residential Areas: stores located in or near residential neighborhoods.
+#### RESIDENTIAL AREAS: stores located in or near residential neighborhoods.
 
 Sales Impact: Residential areas cater to local residents, offering a more community-focused shopping experience. Sales might be influenced by the demographics of the neighborhood, including the age group of families with children.
+
 Recommendation: Assess the demographic profile of successful residential stores and identify neighborhoods with similar characteristics for expansion.
 
-#### Around Airports: stores situated in proximity to airports.
+#### AIRPORT AREAS: stores situated in proximity to airports.
 
 Sales Impact: these areas attract a mix of local and international customers. Travelers, especially families with children, usually seek entertainment options or souvenirs.
+
 Recommendation: Assess the performance of airport stores and consider expansion in cities with high air traffic. Maven Toys should tailor product offerings to cater to travelers and explore partnerships with airport authorities for promotional opportunities.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
